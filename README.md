@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on IOT and Web projects.<br>👯 I’m looking to collaborate on remote jobs.<br>🌱 I’m currently learning Python, AWS.<br>💬 Ask me about Web Develoment with Python, JS and IOT with c++.<br>⚡ I like video games<br>😄 I like to listen to heavy music.
+🔭 I'm currently working on IOT and Web projects.<br>👯 I’m looking to collaborate on remote jobs.<br>🌱 I’m currently learning Python, AWS.<br>💬 Ask me about Web Develoment with Python, JS and IOT with c++.<br>⚡ I like video games<br>😄 I like listen to heavy music.
 
 
 ## 🌐 Socials:
